@@ -1,3 +1,4 @@
+// This is the code for App.js of Cinex Project folder
 import logo from './logo.svg';
 import './App.css';
 
